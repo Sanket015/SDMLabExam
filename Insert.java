@@ -1,4 +1,4 @@
-public class Bubble
+public class Insert
 {
     public void bsSort(int[] arr)
     {
